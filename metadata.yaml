@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25831'
     url: http://www.gutenberg.org/2009/agents/25831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23409#Acadiaor-A-Month-with-the-Blue-Noses
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2007-11-08'
 gutenberg_type: Text
