@@ -1,0 +1,33 @@
+_repo: Acadiaor-A-Month-with-the-Blue-Noses_23409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cozzens, Frederic S. (Frederic Swartwout)
+    aliases:
+    - Haywarde, Richard
+    - Cozzens, Frederick Swartwout
+    birthdate: 1818
+    deathdate: 1869
+    gutenberg_agent_id: '25831'
+    url: http://www.gutenberg.org/2009/agents/25831
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2007-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23409'
+  lccn: '01021726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nova Scotia -- Description and travel'
+- !lcc 'F1001'
+title: 'Acadia
+
+  or, A Month with the Blue Noses'
+url: http://www.gutenberg.org/ebooks/23409
